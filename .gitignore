@@ -1,0 +1,8 @@
+.devcontainer
+.vscode
+build/
+sdkconfig*
+main/Kconfig.projbuild
+main/component.mk
+.project
+.cproject
